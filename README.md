@@ -9,3 +9,4 @@ Los avances del projecto final de mi equipo voy a subir aqui :
 Sobre el mismo documento (notebook) se clasificará en secciones
 
 * Proyecto final: Avance 1 --> Sección Avance 1
+* Proyecto final: Avance 2 --> Sección Avance 2
