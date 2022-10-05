@@ -10,3 +10,4 @@ Sobre el mismo documento (notebook) se clasificará en secciones
 
 * Proyecto final: Avance 1 --> Sección Avance 1
 * Proyecto final: Avance 2 --> Sección Avance 2
+* Tarea Actividad 1 Semana 3 --> Grupo 26
