@@ -12,3 +12,4 @@ Sobre el mismo documento (notebook) se clasificará en secciones
 * Proyecto final: Avance 2 --> Sección Avance 2
 * Tarea Actividad 1 Semana 3 --> Grupo 26
 * 04.Actividad_semana4_A01794028_A01793803 --> Grupo 26
+* Semana9_RETO_Entrega1_grupo26 --> 16/Nov/2022
